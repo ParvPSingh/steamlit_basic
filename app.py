@@ -1,4 +1,3 @@
-!pip install streamlit -q
 import streamlit as st
 def find_max(a,b,c):
   l=list([a,b,c])
